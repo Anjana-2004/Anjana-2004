@@ -53,7 +53,7 @@ me.say_hi()
 ### 🗄️ Databases  
 
 ![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)  
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)  
+
 
 ### 🌐 Web Development  
 
