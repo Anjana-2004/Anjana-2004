@@ -1,6 +1,20 @@
-# Hi there, I'm Anjana Satish 👋  
+```md
+# Hello there 👋  
 
-I'm an **AI/ML Developer** passionate about building intelligent applications. I specialize in Python, deep learning, and emerging AI technologies, while also dabbling in front-end development and cloud solutions.  
+
+class AIMLDeveloper:
+
+    def __init__(self):
+        self.name = "Anjana Satish"
+        self.role = "AI/ML Developer"
+        self.skills = ["Python", "Deep Learning", "NLP", "Cloud Solutions"]
+
+    def say_hi(self):
+        print("Thanks for dropping by! Feel free to explore my work and connect.")
+
+me = AIMLDeveloper()
+me.say_hi()
+```
 
 ---
 
@@ -9,12 +23,57 @@ I'm an **AI/ML Developer** passionate about building intelligent applications. I
 - 🔭 Currently working on **innovative deep learning projects** using **TensorFlow** and **PyTorch**.  
 - 🌱 Expanding my skills in **Front-end Development**.  
 - 💬 Ask me about **Python**, **LangChain**, **Hugging Face models**, **AWS**, **SQL**, and more!  
-- ⚡ Always exploring new technologies to integrate cutting-edge solutions.  
+- ⚡ Passionate about **exploring new AI technologies** and **building intelligent applications**.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Technologies & Tools  
+
+### ☁️ Cloud Services  
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)  
 
 
+### 🖥️ Programming & Scripting  
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)  
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)  
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)  
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)  
+
+
+
+### 🤖 AI & Machine Learning  
+
+![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)  
+![PyTorch](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)  
+![Hugging Face](https://img.shields.io/badge/NLP-Hugging_Face-informational?style=flat&logo=huggingface&logoColor=white&color=6aa6f8)  
+![LangChain](https://img.shields.io/badge/NLP-LangChain-informational?style=flat&logo=ai&logoColor=white&color=6aa6f8)  
+
+### 🗄️ Databases  
+
+![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)  
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)  
+
+### 🌐 Web Development  
+
+![HTML5](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)  
+![CSS3](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)  
+![JavaScript](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)  
+
+---
+
+## 🗂 Featured Projects  
+
+<a href="https://github.com/Anjana-2004/Hit-Song-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjana-2004&repo=Hit-Song-Prediction&theme=dark" />
+</a>  
+
+<a href="https://github.com/Anjana-2004/Loan-Eligibility-Model">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjana-2004&repo=Loan-Eligibility-Model&theme=dark" />
+</a>  
+
+---
 ## 📫 Connect With Me  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anjanasatish04@gmail.com)  
@@ -22,5 +81,4 @@ I'm an **AI/ML Developer** passionate about building intelligent applications. I
 
 ---
 
-### ✨ Thanks for stopping by! Feel free to reach out or connect if you'd like to collaborate or chat about technology. 🚀  
-
+### ✨ Thanks for stopping by! Feel free to connect or collaborate. 🚀  
