@@ -13,7 +13,7 @@ class AIMLDeveloper:
         print("Thanks for dropping by! Feel free to explore my work and connect.")
 
 me = AIMLDeveloper()
-me.say_hi()
+
 ```
 
 ---
